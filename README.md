@@ -29,8 +29,15 @@ Mentre il file di input conterrà lo stato iniziale del dominio, come ad esempio
 
 00000000000000000000 
 
+La descrizione del progetto è disponibile qua: [Presentazione Progetto Algoritmi Paralleli e Sistemi Distribuiti](https://github.com/matte18it/ProgettoAPSD/blob/main/ProgettoAPSD.pdf)
+
+# 📼 Demo Video 📼
+<div align="center">
+  <img src="https://github.com/matte18it/ProgettoAPSD/blob/main/Demo.gif" alt="Palkia">
+</div>
+
 # ❗️DISCLAIMER❗️
-Alla realizzazione del proggetto hanno contribuito gli studenti dell'Università della Calabaria:
+Alla realizzazione del progetto hanno contribuito gli studenti dell'Università della Calabaria:
 <ul>
   <li>Matteo Canino</li>
   <li>Pierfrancesco Napoli</li>
